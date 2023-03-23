@@ -1,0 +1,11 @@
+Otrzymane czasy systemowe mają małe wartości, w związku z tym uzyskane pomiary czasów systemowych mają wartości równe 0.
+
+Czasy użytkownia również posiadają małe wartości, jednakże posiadają one już skończone wartości zmiennoprzecinkowe.
+Przyjmują one średnio najmniejsze wartości dla bibliotek statycznych, ponieważ funkcje z biblioteki są bezpośrednio wbudowywane 
+w kod źródłowy programu i są ładowane razem z nim podczas kompilacji.
+Niewiele większe czasy średnie uzyskują biblioteki dzielone. Są one średnio wolniejsze od statycznych, jednakże szybsze niż dynamiczne.
+Powodem tego jest fakt, iż biblioteki dzielone są ładowane tylko raz do pamięci i udostępniane między wieloma programami.
+
+Wyniki czasów rzeczywistych mają największe wartości w porównaniu do pozostałych typów czasów. W tym przypadku ciężko jest wywnioskować
+dokładnie, która biblioteka działa najszybciej.
+

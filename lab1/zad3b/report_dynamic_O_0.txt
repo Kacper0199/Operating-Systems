@@ -1,0 +1,33 @@
+>>Time taken - System: 0.000000 seconds, User: 0.000003 seconds, Real: 0.000001 seconds
+>>Time taken - System: 0.000000 seconds, User: 0.000142 seconds, Real: 0.001851 seconds
+>>Time taken - System: 0.000000 seconds, User: 0.000131 seconds, Real: 0.001770 seconds
+>>Time taken - System: 0.000000 seconds, User: 0.000120 seconds, Real: 0.001892 seconds
+>>Block contents:
+  89  179 2032 ./ex1.c
+Time taken - System: 0.000000 seconds, User: 0.000001 seconds, Real: 0.000000 seconds
+>>Block contents:
+ 20  40 426 ./ex1.h
+Time taken - System: 0.000000 seconds, User: 0.000001 seconds, Real: 0.000000 seconds
+>>Block contents:
+ 134  344 4116 ./main.c
+Time taken - System: 0.000000 seconds, User: 0.000001 seconds, Real: 0.000000 seconds
+>>Block contents:
+(null)
+Time taken - System: 0.000000 seconds, User: 0.000001 seconds, Real: 0.000000 seconds
+>>Time taken - System: 0.000000 seconds, User: 0.000003 seconds, Real: 0.000001 seconds
+>>Time taken - System: 0.000000 seconds, User: 0.000001 seconds, Real: 0.000000 seconds
+>>Time taken - System: 0.000000 seconds, User: 0.000001 seconds, Real: 0.000000 seconds
+>>Time taken - System: 0.000000 seconds, User: 0.000001 seconds, Real: 0.000000 seconds
+>>Block contents:
+(null)
+Time taken - System: 0.000000 seconds, User: 0.000001 seconds, Real: 0.000000 seconds
+>>Block contents:
+(null)
+Time taken - System: 0.000000 seconds, User: 0.000002 seconds, Real: 0.000000 seconds
+>>Block contents:
+(null)
+Time taken - System: 0.000000 seconds, User: 0.000001 seconds, Real: 0.000000 seconds
+>>Block contents:
+(null)
+Time taken - System: 0.000000 seconds, User: 0.000001 seconds, Real: 0.000000 seconds
+>>

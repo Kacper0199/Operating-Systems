@@ -1,0 +1,8 @@
+Różnice w czasach dla bibliotek statycznych dla różnych poziomów optymalizacji nie różnią się wiele.
+Powodem tego jest taki sam fakt małej wartości mierzonych czasów tak, jak miało to miejsce podczas testów w zad3a.
+Dla bibliotek statycznych niewiele mniejsze czasy (średnio) osiągane są w opytmalizacjach O2 i O3.
+Powodem tego jest nacisk kładziony na optymalizację szybkości obliczeń kodu w tych rodzajach.
+Podobna sytuacja ma miejsce dla bibliotek dzielonych. W bibliotekach dynamicznych ciężko jest dojść do wniosku,
+która optymalizacja daje najmniejsze wartości czasów.
+Zachowane zostają własności czasów działania pomiędzy trzema typami bibliotek (wytłumaczenie w komentarzu do zad3a).
+

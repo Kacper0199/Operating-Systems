@@ -1,0 +1,17 @@
+init 4
+count ./ex1.c
+count ./ex1.h
+count ./main.c
+show 0
+show 1
+show 2
+show 3
+delete 0
+delete 1
+delete 2
+delete 3
+show 0
+show 1
+show 2
+show 3
+destroy
