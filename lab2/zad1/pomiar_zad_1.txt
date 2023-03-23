@@ -1,0 +1,52 @@
+Time taken using sys: 0.000052 seconds
+
+Time taken using lib: 0.000077 seconds
+
+Time taken using sys: 0.000063 seconds
+
+Time taken using lib: 0.000107 seconds
+
+Time taken using sys: 0.000075 seconds
+
+Time taken using lib: 0.000083 seconds
+
+Time taken using sys: 0.000064 seconds
+
+Time taken using lib: 0.000088 seconds
+
+Time taken using sys: 0.000072 seconds
+
+Time taken using lib: 0.000078 seconds
+
+Time taken using sys: 0.000071 seconds
+
+Time taken using lib: 0.000087 seconds
+
+Time taken using sys: 0.000065 seconds
+
+Time taken using lib: 0.000075 seconds
+
+Time taken using sys: 0.000079 seconds
+
+Time taken using lib: 0.000085 seconds
+
+Time taken using sys: 0.000069 seconds
+
+Time taken using lib: 0.000108 seconds
+
+Time taken using sys: 0.000063 seconds
+
+Time taken using lib: 0.000077 seconds
+
+Time taken using sys: 0.000073 seconds
+
+Time taken using lib: 0.000082 seconds
+
+Time taken using sys: 0.000077 seconds
+
+Time taken using lib: 0.000081 seconds
+
+Time taken using sys: 0.000157 seconds
+
+Time taken using lib: 0.000100 seconds
+

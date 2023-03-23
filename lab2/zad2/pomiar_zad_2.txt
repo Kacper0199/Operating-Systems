@@ -1,0 +1,196 @@
+Time taken reversing by one char: 0.000131 seconds
+
+Time taken reversing by block: 0.000078 seconds
+
+Time taken reversing by one char: 0.000166 seconds
+
+Time taken reversing by block: 0.000079 seconds
+
+Time taken reversing by one char: 0.000150 seconds
+
+Time taken reversing by block: 0.000090 seconds
+
+Time taken reversing by one char: 0.000141 seconds
+
+Time taken reversing by block: 0.000081 seconds
+
+Time taken reversing by one char: 0.000182 seconds
+
+Time taken reversing by block: 0.000096 seconds
+
+Time taken reversing by one char: 0.000126 seconds
+
+Time taken reversing by block: 0.000080 seconds
+
+Time taken reversing by one char: 0.000112 seconds
+
+Time taken reversing by block: 0.000076 seconds
+
+Time taken reversing by one char: 0.000110 seconds
+
+Time taken reversing by block: 0.000088 seconds
+
+Time taken reversing by one char: 0.000111 seconds
+
+Time taken reversing by block: 0.000092 seconds
+
+Time taken reversing by one char: 0.000140 seconds
+
+Time taken reversing by block: 0.000089 seconds
+
+Time taken reversing by one char: 0.000135 seconds
+
+Time taken reversing by block: 0.000081 seconds
+
+Time taken reversing by one char: 0.000129 seconds
+
+Time taken reversing by block: 0.000090 seconds
+
+Time taken reversing by one char: 0.000112 seconds
+
+Time taken reversing by block: 0.000092 seconds
+
+Time taken reversing by one char: 0.000108 seconds
+
+Time taken reversing by block: 0.000094 seconds
+
+Time taken reversing by one char: 0.000111 seconds
+
+Time taken reversing by block: 0.000089 seconds
+
+Time taken reversing by one char: 0.000142 seconds
+
+Time taken reversing by block: 0.000101 seconds
+
+Time taken reversing by one char: 0.000111 seconds
+
+Time taken reversing by block: 0.000081 seconds
+
+Time taken reversing by one char: 0.000127 seconds
+
+Time taken reversing by block: 0.000083 seconds
+
+Time taken reversing by one char: 0.000140 seconds
+
+Time taken reversing by block: 0.000088 seconds
+
+Time taken reversing by one char: 0.000120 seconds
+
+Time taken reversing by block: 0.000076 seconds
+
+Time taken reversing by one char: 0.000128 seconds
+
+Time taken reversing by block: 0.000081 seconds
+
+Time taken reversing by one char: 0.004609 seconds
+
+Time taken reversing by block: 0.000101 seconds
+
+Time taken reversing by one char: 0.000169 seconds
+
+Time taken reversing by block: 0.000113 seconds
+
+Time taken reversing by one char: 0.000167 seconds
+
+Time taken reversing by block: 0.000073 seconds
+
+Time taken reversing by one char: 0.004621 seconds
+
+Time taken reversing by block: 0.000101 seconds
+
+Time taken reversing by one char: 0.000162 seconds
+
+Time taken reversing by block: 0.000082 seconds
+
+Time taken reversing by one char: 0.000549 seconds
+
+Time taken reversing by block: 0.000072 seconds
+
+Time taken reversing by one char: 0.003253 seconds
+
+Time taken reversing by block: 0.000079 seconds
+
+Time taken reversing by one char: 0.003215 seconds
+
+Time taken reversing by block: 0.000077 seconds
+
+Time taken reversing by one char: 0.001603 seconds
+
+Time taken reversing by block: 0.000074 seconds
+
+Time taken reversing by one char: 0.000909 seconds
+
+Time taken reversing by block: 0.000071 seconds
+
+Time taken reversing by one char: 0.000983 seconds
+
+Time taken reversing by block: 0.000073 seconds
+
+Time taken reversing by one char: 0.001074 seconds
+
+Time taken reversing by block: 0.000076 seconds
+
+Time taken reversing by one char: 0.001046 seconds
+
+Time taken reversing by block: 0.000074 seconds
+
+Time taken reversing by one char: 0.001000 seconds
+
+Time taken reversing by block: 0.000074 seconds
+
+Time taken reversing by one char: 0.001007 seconds
+
+Time taken reversing by block: 0.000074 seconds
+
+Time taken reversing by one char: 0.001013 seconds
+
+Time taken reversing by block: 0.000072 seconds
+
+Time taken reversing by one char: 0.001001 seconds
+
+Time taken reversing by block: 0.000076 seconds
+
+Time taken reversing by one char: 0.001012 seconds
+
+Time taken reversing by block: 0.000099 seconds
+
+Time taken reversing by one char: 0.001006 seconds
+
+Time taken reversing by block: 0.000068 seconds
+
+Time taken reversing by one char: 0.001933 seconds
+
+Time taken reversing by block: 0.000084 seconds
+
+Time taken reversing by one char: 0.003826 seconds
+
+Time taken reversing by block: 0.000084 seconds
+
+Time taken reversing by one char: 0.003806 seconds
+
+Time taken reversing by block: 0.000081 seconds
+
+Time taken reversing by one char: 0.003792 seconds
+
+Time taken reversing by block: 0.000084 seconds
+
+Time taken reversing by one char: 0.003836 seconds
+
+Time taken reversing by block: 0.000093 seconds
+
+Time taken reversing by one char: 0.003807 seconds
+
+Time taken reversing by block: 0.000086 seconds
+
+Time taken reversing by one char: 0.003927 seconds
+
+Time taken reversing by block: 0.000093 seconds
+
+Time taken reversing by one char: 0.003806 seconds
+
+Time taken reversing by block: 0.000085 seconds
+
+Time taken reversing by one char: 0.003861 seconds
+
+Time taken reversing by block: 0.000085 seconds
+
