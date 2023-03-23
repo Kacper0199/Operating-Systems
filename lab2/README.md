@@ -1,0 +1,15 @@
+## Zadanie 1. Napisz program, który przyjmuje 4 argumenty wiersza poleceń:
+1. znak ASCII, który należy znaleźć w pliku wejściowym
+2. znak ASCII, na który należy zamienić wszystkie wystąpienia pierwszego argumentu
+3. nazwa pliku wejściowego, w którym należy znaleźć pierwszy argument
+4. nazwa pliku wyjściowego, do którego należy zapisać zawartość pliku wejściowego z zamienionym znakami argv[1] na argv[2].
+
+## Zadanie 2. Napisz program, który: 
+kopiuje zawartość jednego pliku do drugiego, odwróconą bajt po bajcie.
+Wskazówki: Wywołania w rodzaju fseek(infile, +1024, SEEK_END) lub lseek(in, +1024, SEEK_END) są zupełnie legalne i nie powodują żadnych skutków ubocznych. Aby po przeczytaniu bloku znaków cofnąć się na początek poprzedniego bloku, należy jako drugi argument funkcji fseek(..., ..., SEEK_CUR) lub lseek(...., ..., SEEK_CUR) podać podwojoną długość bloku ze znakiem minus. Działanie programu należy zweryfikować następująco: 1) odwrócić krótki plik tekstowy, podejrzeć wynik, sprawdzić szczególnie początkowe i końcowe znaki. 2) ./reverse plik_binarny tmp1 ; ./reverse tmp1 tmp2 ; diff -s tmp2 plik_binarny 3) można też porównać (diff -s) wynik działania programu i wynik polecenia tac < plik_wejściowy | rev > plik_wyjściowy
+
+## Zadanie 3. Napisz program, który: 
+przegląda bieżący katalog, korzystając z funkcji opendir(), readdir() i stat(). Dla każdego znalezionego pliku, który nie jest katalogiem, czyli !S_ISDIR(bufor_stat.st_mode), należy wypisać rozmiar i nazwę pliku. Ponadto na koniec należy wypisać sumaryczny rozmiar wszystkich plików. Nie należy przeglądać podkatalogów! Sumaryczny rozmiar plików należy przechowywać w zmiennej typu long long i wypisywać ją przez format %lld.
+
+## Zadanie 4. Napisz program, który: 
+przegląda katalog podany jako argument wywołania i jego podkatalogi, korzystając z funkcji ftw() (uproszczonej wersji funkcji nftw()). Dla każdego znalezionego pliku, który nie jest katalogiem, czyli !S_ISDIR(bufor_stat.st_mode), należy wypisać rozmiar i nazwę pliku. Ponadto na koniec należy wypisać sumaryczny rozmiar wszystkich plików.
